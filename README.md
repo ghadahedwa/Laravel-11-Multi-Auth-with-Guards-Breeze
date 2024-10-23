@@ -9,14 +9,14 @@
 
 ## Info
 
-Step 1 - Laravel 11 installation.
-Step 2 - Laravel breeze package.
-Step 3 - Model and migration for suer admin and admin.
-Step 4 - Setu the schema insid the migrations and fillable proerty in the models.
-Step 5 - Create guards and roviders in the auth.php.
-Step 6 - Implement authentication for the super admin.
-Step 7 - Implement authentication for the admin.
-Step 8 - Create middlewares and will have to register it.
+- Step 1 - Laravel 11 installation.
+- Step 2 - Laravel breeze package.
+- Step 3 - Model and migration for suer admin and admin.
+- Step 4 - Setu the schema insid the migrations and fillable proerty in the models.
+- Step 5 - Create guards and roviders in the auth.php.
+- Step 6 - Implement authentication for the super admin.
+- Step 7 - Implement authentication for the admin.
+- Step 8 - Create middlewares and will have to register it.
 
 ## About Laravel
 
