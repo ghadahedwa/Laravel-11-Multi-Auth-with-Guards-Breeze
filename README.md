@@ -7,6 +7,17 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Info
+
+Step 1 - Laravel 11 installation.
+Step 2 - Laravel breeze package.
+Step 3 - Model and migration for suer admin and admin.
+Step 4 - Setu the schema insid the migrations and fillable proerty in the models.
+Step 5 - Create guards and roviders in the auth.php.
+Step 6 - Implement authentication for the super admin.
+Step 7 - Implement authentication for the admin.
+Step 8 - Create middlewares and will have to register it.
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
